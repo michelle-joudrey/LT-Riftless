@@ -7,7 +7,7 @@
 2. Run `LT-Riftless.exe`
 3. Rename `Assembly-CSharp.dll` to `Assembly-CSharp.dll.backup`
 4. Rename `Assembly-CSharp-Patched.dll` to `Assembly-CSharp.dll`
-5. Run the game by double clicking on `C:\Program Files (x86)\Oculus\Software\playful-luckys-tale\Lt.exe`
+5. Run the game by double clicking on `C:\Program Files (x86)\Oculus\Software\playful-luckys-tale\LT.exe`
 
 ## Uninstall
 1. Rename `Assembly-CSharp.dll.backup` to `Assembly-CSharp.dll`
