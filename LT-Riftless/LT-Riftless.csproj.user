@@ -3,4 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartWorkingDirectory>C:\Users\reinitialized\Desktop\LT-Riftless\LT-Riftless\</StartWorkingDirectory>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartWorkingDirectory>C:\Users\reinitialized\Desktop\LT-Riftless\LT-Riftless\</StartWorkingDirectory>
+  </PropertyGroup>
 </Project>
