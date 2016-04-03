@@ -1,6 +1,6 @@
 # LT-Riftless
 
-[Download here](https://github.com/mjoudrey/LT-Riftless/releases/download/1.0/LT-Riftless.zip)
+[Download here](https://github.com/mjoudrey/LT-Riftless/releases/download/1.0.1/LT-Riftless.zip)
 
 ## Installation
 1. Copy `LT-Riftless.exe` and `Mono.Cecil.dll` to `C:\Program Files (x86)\Oculus\Software\playful-luckys-tale\LT_Data\Managed`
