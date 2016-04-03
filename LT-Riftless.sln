@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LT-Riftless", "LT-Riftless\LT-Riftless.csproj", "{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		net_2_0_Release|Any CPU = net_2_0_Release|Any CPU
+		net_3_5_Debug|Any CPU = net_3_5_Debug|Any CPU
+		net_3_5_Release|Any CPU = net_3_5_Release|Any CPU
+		net_4_0_Debug|Any CPU = net_4_0_Debug|Any CPU
+		net_4_0_Release|Any CPU = net_4_0_Release|Any CPU
+		net_4_5_Debug|Any CPU = net_4_5_Debug|Any CPU
+		net_4_5_Release|Any CPU = net_4_5_Release|Any CPU
+		pcl_Debug|Any CPU = pcl_Debug|Any CPU
+		pcl_Release|Any CPU = pcl_Release|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_2_0_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_2_0_Release|Any CPU.Build.0 = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_3_5_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_3_5_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_3_5_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_3_5_Release|Any CPU.Build.0 = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_0_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_0_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_0_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_0_Release|Any CPU.Build.0 = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_5_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_5_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_5_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.net_4_5_Release|Any CPU.Build.0 = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.pcl_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.pcl_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.pcl_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.pcl_Release|Any CPU.Build.0 = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42ABDA46-388A-4E1F-9EDF-CACF536E20D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
