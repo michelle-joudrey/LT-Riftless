@@ -28,6 +28,14 @@ namespace LT_Riftless
                 .First(x => x.Name.Equals("EnableCamera"));
             EnableCameraMethod.Body.Instructions[4] = Instruction.Create(OpCodes.Ldc_I4_0);
 
+            MethodDefinition IsErrorCheckMethod =
+                assembly.MainModule.Types
+                .First(x => x.Name.Equals("UIEntitlementCheck")).Methods
+                .First(x => x.Name.Equals("ProcessEntitlementCheck"));
+            IsErrorCheckMethod.Body.Instructions.Where(x => x.Offset < 0x24).ToList().ForEach(x =>
+                IsErrorCheckMethod.Body.Instructions.Remove(x)
+            );
+
             assembly.Write(new FileStream("Assembly-CSharp-Patched.dll", FileMode.Create));
         }
     }
